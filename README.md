@@ -51,3 +51,60 @@ Upcoming:
 
 ## 📂 Repository Structure
 
+qa-automation-journey/
+│
+├── README.md
+├── docs/
+│ ├── roadmap.md
+│ ├── daily-log.md
+│ └── selenium-notes.md
+│
+├── html-css/
+│ ├── day-01/
+│ └── day-02/
+│
+├── selenium/
+│ ├── day-01/
+│ └── day-02/
+│
+└── interview-notes/
+└── common-qa-questions.md
+
+
+---
+
+## 📈 Progress Tracking
+
+Daily updates are committed to reflect:
+- What was learned
+- What was implemented
+- Challenges faced
+- Lessons learned
+
+This repository is **actively maintained**.
+
+---
+
+## 🌍 Career Target
+
+- QA Automation Engineer
+- SDET
+- Remote-first roles
+- Relocation opportunities (Europe-focused)
+
+---
+
+## 📌 Note
+
+This repository represents a **learning journey**.
+A separate repository will be created for a fully structured
+production-level automation framework once the core stack is completed.
+
+---
+
+## 🔗 Connect
+
+- GitHub profile: https://github.com/KerimSDET
+- Learning updates are shared on LinkedIn
+
+
