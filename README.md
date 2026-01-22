@@ -1,3 +1,4 @@
+```
 # QA Automation Journey
 
 This repository documents my structured journey toward becoming a
@@ -72,6 +73,8 @@ qa-automation-journey/
 └── common-qa-questions.md
 
 
+
+
 ---
 
 ## 📈 Progress Tracking
@@ -107,5 +110,5 @@ production-level automation framework once the core stack is completed.
 
 - GitHub profile: https://github.com/KerimSDET
 - Learning updates are shared on LinkedIn
-
+```
 
