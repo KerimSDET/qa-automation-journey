@@ -53,21 +53,37 @@ Upcoming:
 
 qa-automation-journey/
 │
+
 ├── README.md
+
 ├── docs/
+
 │ ├── roadmap.md
+
 │ ├── daily-log.md
+
 │ └── selenium-notes.md
+
 │
+
 ├── html-css/
+
 │ ├── day-01/
+
 │ └── day-02/
+
 │
+
 ├── selenium/
+
 │ ├── day-01/
+
 │ └── day-02/
+
 │
+
 └── interview-notes/
+
 └── common-qa-questions.md
 
 
